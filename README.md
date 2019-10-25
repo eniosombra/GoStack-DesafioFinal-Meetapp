@@ -42,7 +42,7 @@ $ git clone https://github.com/eniosombra/GoStack-DesafioFinal-Meetapp.git
 # Acesse a pasta criada
 $ cd GoStack-DesafioFinal-Meetapp
 
-# Instale as dependência do projeto Backend
+# Instale as dependências do projeto Backend
 $ cd backend
 $ yarn install
 
@@ -59,7 +59,7 @@ $ yarn start
 # Execute o servidor Frontend
 $ yarn install
 
-# Instale as dependência do projeto Mobile
+# Instale as dependências do projeto Mobile
 $ cd mobile
 $ yarn install
 
